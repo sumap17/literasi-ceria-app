@@ -6,17 +6,17 @@ Aplikasi Pembelajaran Membaca, Menulis, dan Mendengar dengan Umpan Balik Otomati
 "Literasi Ceria" adalah aplikasi berbasis Android yang dirancang untuk membantu siswa SD belajar membaca, menulis, dan mendengar melalui umpan balik interaktif secara otomatis. Aplikasi ini mendukung **Mode Kelas** (materi dari guru) dan **Mode Bebas** (latihan mandiri).
 
 ## 👥 Tim Pengembang
-* **Project Manager:** Zarfan Azka
-* **Finance & Marketing Officer:** Ikshan
-* **System Analyst & Database Developer:** Sukma
-* **UI/UX Designer & Software Tester:** Rizki
-* **Android Developer & AI/ML Developer:** Faisal
+* **Project Manager:** ZARFAN AZKA
+* **Finance & Marketing Officer:** IKHSANURIL AL FAYADH
+* **System Analyst & Database Developer:** SUKMA SUMAP PRAJA
+* **UI/UX Designer & Software Tester:** MOH RIZKI MUSLIM
+* **Android Developer & AI/ML Developer:** FAISAL ARIF SULISTYO
 
 ## 🛠️ Persiapan Lingkungan Pengembangan (Stack & Tools)
-* **Mobile / Frontend:** Android (Kotlin) / Flutter
-* **Backend & API:** Node.js (Express)
-* **Database:** MySQL (Server Utama) & Room/SQLite (Lokal Android)
-* **AI Engine / Integration:** ML Kit Digital Ink Recognition, Speech-to-Text API, Text-to-Speech (TTS)
+* **Mobile / Frontend:** 
+* **Backend & API:** 
+* **Database:** 
+* **AI Engine / Integration:** 
 
 ## 🗄️ Struktur Database
 Database `literasi_ceria` terdiri dari 13 tabel utama:
